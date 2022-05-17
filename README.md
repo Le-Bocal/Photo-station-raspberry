@@ -21,4 +21,5 @@ Puis on utilise un script python (taking-picture.py) pour commander la prise et 
 * [Installer dodoc sur le raspberry](https://latelier-des-chercheurs.fr/docs/manuel-dodoc)
 * dans le dossier "/hompe/pi/" mettre les script "launcher.sh" et "taking-picture.py"
 *  [modifier le crontab pour lancer le script au démarage du raspberry pi](https://www.instructables.com/Raspberry-Pi-Launch-Python-script-on-startup/) , utiliser le script sh de ce dépot !
+* explication sur le script python (choix du projet)
 
